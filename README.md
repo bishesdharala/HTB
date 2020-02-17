@@ -1,5 +1,5 @@
 # HTB
-APOLOGIES !! :sorry
+APOLOGIES !!
 As per HTB's active Regulations I can't directly post any of the flags.
 Sure if you decrypt my Hashes you might jumpstart your way in.
 Best of luck Challenging !
